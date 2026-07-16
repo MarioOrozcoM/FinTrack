@@ -1,10 +1,9 @@
-function Button(){
-
-    return(
-        <div>
-            <p>Hola</p>
-        </div>
-    )
+function Button() {
+  return (
+    <div>
+      <p>Hola</p>
+    </div>
+  );
 }
 
-export default Button
+export default Button;
